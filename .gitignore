@@ -7,3 +7,4 @@ cache/*
 221101_train_scNym_reference-Healthy_model.ipynb
 *.png
 *.pdf
+data
