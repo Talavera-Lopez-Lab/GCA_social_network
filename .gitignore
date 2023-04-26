@@ -5,7 +5,6 @@ cache/*
 *.h5ad
 221101_format_Healthy-Yoshida22_for_scNym.ipynb
 221101_train_scNym_reference-Healthy_model.ipynb
-*.png
 *.pdf
 data
 *.jpg
